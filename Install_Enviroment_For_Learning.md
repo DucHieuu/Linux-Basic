@@ -1,4 +1,6 @@
 # Cài đặt máy ảo Linux (SKIP)
+
+# Quản trị từ xa
 ## PUTTY
 - Khi được giao 1 công việc quản trị một server chạy hệ điều hành Linux thì rất ít có khả năng được sử dụng console để kết nối giao diện và sử dụng chuột và bản phím điều khiển
 - Thông thường, ta sẽ chỉ được cấp địa chỉ IP, port, Username và Password. Để kết nối được đến máy chủ thì cần một công cụ SSH => `PUTTY`
@@ -11,6 +13,7 @@ và `OK` done
 
 ![image](https://user-images.githubusercontent.com/71936544/136417442-b50b6b8f-d58c-4886-b1b9-fded6a5e57b8.png)
 > PUTTY nhẹ, dễ dàng cài đặt tuy nhiên rất ít tính năng. Trong thực tế, ta cần sử dụng nhiều hơn thế do đó cần sử dụng công cụ hỗ trợ chuyên sâu hơn
+
 ## MobaXterm
 > Khắc phục được cái hạn chế về mặt thân thiện so với PUTTY
 - Tải MobaXterm [tại đây](https://mobaxterm.mobatek.net/download.html)
